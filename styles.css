@@ -6,6 +6,6 @@ table,th,td{
 	text-align:center
 }
 /* Your CSS Code here. */
-.nested1,nested2,nested3{
+.nested1,.nested2,.nested3,.nested4{
 	width:100%;
 }
